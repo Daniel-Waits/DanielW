@@ -1,7 +1,7 @@
 **C**
 
 <details>
-  <summary>Matching Word Replacement Program</summary/>
+<summary>Matching Word Replacement Program</summary/>
 
 **Python**
 
