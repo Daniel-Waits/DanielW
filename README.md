@@ -88,3 +88,16 @@ Using a Linked List to create a Graph within Python.
     </embed>
 </object>
 </details>
+                                                                                               
+
+**MATLAB/Simulink**
+
+<details>
+<summary>Modelling a Solar Powered Cart</summary/>
+Each subsystem was analysed and then modelled in order to predict the time it would take the cart to reach the top of a ramp.
+<object data="https://github.com/Daniel-Waits/DanielW/blob/main/Matlab_Report.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src=https://github.com/Daniel-Waits/DanielW/blob/main/Matlab_Report.pdf">
+        <p>Report: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/Matlab_Report.pdf">View Report</a>.</p>
+    </embed>
+</object>
+</details>
