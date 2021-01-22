@@ -100,4 +100,10 @@ Each subsystem was analysed and then modelled in order to predict the time it wo
         <p>Report: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/Matlab_Report.pdf">View Report</a>.</p>
     </embed>
 </object>
+                                                                                                
+<object data="https://github.com/Daniel-Waits/DanielW/blob/main/Simulink%20Model.slx" type="application/pdf" width="700px" height="700px">
+    <embed src=https://github.com/Daniel-Waits/DanielW/blob/main/Simulink%20Model.slx">
+        <p>Script/Model: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/Simulink%20Model.slx">View Script/Model</a>.</p>
+    </embed>
+</object>                                                                                             
 </details>
