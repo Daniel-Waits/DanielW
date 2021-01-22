@@ -8,7 +8,7 @@ Performing pattern-matching replacements on a given string.
         <p>View Program Files: <a href="https://github.com/Daniel-Waits/DanielW/tree/main/C_Assignment_1">View Report</a>.</p>
     </embed>
 </object>
-<details>
+</details>
                                                                                                          
 <details>
 <summary>Bracket Syntax Checker</summary/>
@@ -18,4 +18,4 @@ Visually performs bracket-balance-checking on any given file.
         <p>View Program Files: <a href="https://github.com/Daniel-Waits/DanielW/tree/main/C_Assignment_2">View Report</a>.</p>
     </embed>
 </object>
-<details>
+</details>
