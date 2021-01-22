@@ -63,8 +63,28 @@ Implementation of a Hash Table within Python.
 <summary>Linked Lists</summary/>
 Implementation of a Linked List within Python.
 <object data="https://github.com/Daniel-Waits/DanielW/blob/main/linkedLists.py" type="application/pdf" width="700px" height="700px">
-    <embed src=https://github.com/Daniel-Waits/DanielW/blob/main/linkedLists.pyy">
+    <embed src=https://github.com/Daniel-Waits/DanielW/blob/main/linkedLists.py">
         <p>Code: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/linkedLists.py">View Code</a>.</p>
+    </embed>
+</object>
+</details>
+                                                                                           
+<details>
+<summary>Sorting Algorithms</summary/>
+Implementation and comparison of different sorting algorithms within Python.
+<object data="https://github.com/Daniel-Waits/DanielW/blob/main/DSASorts.py" type="application/pdf" width="700px" height="700px">
+    <embed src=https://github.com/Daniel-Waits/DanielW/blob/main/DSASorts.py">
+        <p>Code: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/DSASorts.py">View Code</a>.</p>
+    </embed>
+</object>
+</details>
+                                                                                        
+<details>
+<summary>Graphs</summary/>
+Using a Linked List to create a Graph within Python.
+<object data="https://github.com/Daniel-Waits/DanielW/blob/main/GraphLinkedList.py" type="application/pdf" width="700px" height="700px">
+    <embed src=https://github.com/Daniel-Waits/DanielW/blob/main/GraphLinkedList.py">
+        <p>Code: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/GraphLinkedList.py">View Code</a>.</p>
     </embed>
 </object>
 </details>
