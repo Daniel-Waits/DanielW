@@ -1,6 +1,22 @@
 **C**
 
 <details>
+<summary>Semi-Autonomous Robot Cart</summary/>
+The robot was able to run in manual mode (with a controller) and autonomous mode, where it used range sensors to ensure it didnt hit the walls around it.
+<object data="https://github.com/Daniel-Waits/DanielW/blob/main/MCP-Final-Report.pdf" width="700px" height="700px">
+    <embed src=https://github.com/Daniel-Waits/DanielW/blob/main/MCP-Final-Report.pdf">
+        <p>Report: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/MCP-Final-Report.pdf">View Report</a>.</p>
+    </embed>
+</object>
+                                                                                                           
+<object data="https://github.com/Daniel-Waits/DanielW/blob/main/CartCode.c" type="application/pdf" width="700px" height="700px">
+    <embed src=https://github.com/Daniel-Waits/DanielW/blob/main/CartCode.c">
+        <p>Code: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/CartCode.c">View Code</a>.</p>
+    </embed>
+</object>
+</details>
+
+<details>
 <summary>Matching Word Replacement Program</summary/>
 Performing pattern-matching replacements on a given string.
 <object data="https://github.com/Daniel-Waits/DanielW/tree/main/C_Assignment_1" type="application/pdf" width="700px" height="700px">
