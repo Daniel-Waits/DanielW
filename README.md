@@ -51,10 +51,20 @@ Implementation of a Binary Search Tree within Python.
                                                                                                 
 <details>
 <summary>Hash Tables</summary/>
-Implementation of a Hash Tables within Python.
+Implementation of a Hash Table within Python.
 <object data="https://github.com/Daniel-Waits/DanielW/blob/main/hashTables.py" type="application/pdf" width="700px" height="700px">
     <embed src=https://github.com/Daniel-Waits/DanielW/blob/main/hashTables.py">
         <p>Code: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/hashTables.py">View Code</a>.</p>
+    </embed>
+</object>
+</details>
+                                                                                          
+<details>
+<summary>Linked Lists</summary/>
+Implementation of a Linked List within Python.
+<object data="https://github.com/Daniel-Waits/DanielW/blob/main/linkedLists.py" type="application/pdf" width="700px" height="700px">
+    <embed src=https://github.com/Daniel-Waits/DanielW/blob/main/linkedLists.pyy">
+        <p>Code: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/linkedLists.py">View Code</a>.</p>
     </embed>
 </object>
 </details>
