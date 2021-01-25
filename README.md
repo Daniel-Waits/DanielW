@@ -56,6 +56,16 @@ Performs path finding to connect buyers and sellers from one crypto-currency to 
 </details>
 
 <details>
+<summary>Sudoku Solver</summary/>
+Uses backtracking/recursion to solve any Sudoku.
+<object data="https://github.com/Daniel-Waits/DanielW/blob/main/Sudoku_DanielWaits.py" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/Daniel-Waits/DanielW/blob/main/Sudoku_DanielWaits.py">
+        <p>Code: <a href="https://github.com/Daniel-Waits/DanielW/blob/main/Sudoku_DanielWaits.py">View Code</a>.</p>
+    </embed>
+</object>
+</details>
+
+<details>
 <summary>Binary Search Tree</summary/>
 Implementation of a Binary Search Tree within Python.
 <object data="https://github.com/Daniel-Waits/DanielW/blob/main/BinarySearchTree.py" type="application/pdf" width="700px" height="700px">
