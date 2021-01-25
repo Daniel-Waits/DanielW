@@ -10,7 +10,6 @@ board = [
     [0,0,0,0,8,0,0,7,9],
     ]
 
-
 def printBoard(board):
     print("")
     for i in range(len(board)):
@@ -50,8 +49,6 @@ def isValid(board, curNumber, curPosition):
         for j in range(x_square_coord*3,x_square_coord*3 + 3):
             if curNumber == board[i][j] and (i,j) != curPosition:
                 return False
-
-
     return True
 
 def solve(board):
@@ -80,10 +77,5 @@ def solveRecursive(board):
             board[x][y] = 0
     return False
      
-
 printBoard(board)
 solve(board)
-#print("")
-#print("SOLVED SUDOKU BOARD:")
-#printBoard(board)
-
